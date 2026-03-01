@@ -15,3 +15,6 @@
 **knowledge_base.py:** 知识库更新服务
 **rag.py:** rag核心服务
 **vector_stores.py:** 向量存储服务
+
+## 成果展示
+![alt text](image.png)
