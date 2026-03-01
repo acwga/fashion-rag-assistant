@@ -10,3 +10,6 @@ chunk_size = 1000
 chunk_overlap = 100
 separators = ['\n\n', '\n', '.', '!', '?', '。', '！', '？', ' ', '']
 max_split_char_num = 1000
+
+# 向量检索器
+similarity_threshold = 1
