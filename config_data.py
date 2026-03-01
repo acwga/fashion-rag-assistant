@@ -15,3 +15,10 @@ max_split_char_num = 1000
 similarity_threshold = 1
 embedding_model_name = 'text-embedding-v4'
 chat_model_name = 'qwen3-max'
+
+# rag服务类配置
+session_config = {
+        'configurable': {
+            'session_id': 'user_001'
+        }
+    }
