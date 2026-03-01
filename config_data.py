@@ -11,5 +11,7 @@ chunk_overlap = 100
 separators = ['\n\n', '\n', '.', '!', '?', '。', '！', '？', ' ', '']
 max_split_char_num = 1000
 
-# 向量检索器
+# 向量存储服务类配置
 similarity_threshold = 1
+embedding_model_name = 'text-embedding-v4'
+chat_model_name = 'qwen3-max'
